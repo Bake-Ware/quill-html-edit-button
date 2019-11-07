@@ -13,6 +13,8 @@ Quill.js Module which allows you to quickly view/edit the HTML in the editor
 
 ![Demo](https://i.imgur.com/Gd5Pc6U.gif)
 
+- [Live Demo]()
+
 ## Install
 
 `yarn add quill-html-edit-button`
